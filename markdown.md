@@ -34,4 +34,4 @@ Du kannst mehr über diese faszinierenden Projekte erfahren, indem du die folgen
 
 In diesem Sinnte, lasst uns Fehler machen nud Neues erschaffen. Wer weiß, vielleicht ist dein nächstes Projekt genau das, was die Welt braucht!
 
-`#Kreativität` `#Innovation` `#Technologie``
+`#Kreativität` `#Innovation` `#Technologie`
