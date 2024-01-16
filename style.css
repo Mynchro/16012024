@@ -87,12 +87,24 @@ footer {
   margin: 20px auto;
 }
 
-.navigation > a {
-  text-decoration: none;
+nav {
   display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 50vw;
+}
+
+nav > a {
+  text-decoration: none;
+  position: relative;
+  display: flex;
   font-family: "Lemon", serif;
   color: white;
-  width: 50px;
+  width: fit-content;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  width: 50vw;
 }
